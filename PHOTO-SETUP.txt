@@ -1,0 +1,29 @@
+RISHAV KUMAR BIRTHDAY WEBSITE - PHOTO SETUP
+
+Place these seven photos inside the "assets" folder:
+
+1. rishav-hero.jpg  - Main hero photo (landscape photo works best)
+2. rishav-1.jpg     - Gallery photo 1
+3. rishav-2.jpg     - Gallery photo 2
+4. rishav-3.jpg     - Gallery photo 3
+5. rishav-4.jpg     - Gallery photo 4
+6. rishav-5.jpg     - Gallery photo 5
+7. rishav-6.jpg     - Gallery photo 6
+
+Recommended:
+- Hero: landscape image, at least 1600 x 900 pixels
+- Gallery: clear JPG photos, at least 1000 pixels on the longest side
+- Keep the filenames exactly as listed above
+
+Hero face position:
+- The layout keeps the top of portrait photos visible so the face is not cut.
+- If a future photo needs adjustment, open styles.css and change --hero-focus-y.
+- Smaller percentage moves the visible crop upward; larger percentage moves it down.
+
+Until these photos are added, the website automatically uses the included
+cinematic birthday artwork as a fallback.
+
+The website also includes animated balloons, confetti, birthday symbols,
+an opening celebration burst, and a larger celebration after the candle wish.
+
+Open index.html to view the website.
